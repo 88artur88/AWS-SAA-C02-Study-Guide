@@ -4,10 +4,10 @@ This study guide will help you pass the newer AWS Certified Solutions Architect 
   1. Stephane Maarek's <a href="https://links.datacumulus.com/aws-certified-sa-associate-coupon">Ultimate AWS Certified Solutions Architect Associate 2021 course</a> (permanent discount available through this link) or A Cloud Guru's <a href="https://acloud.guru/learn/aws-certified-solutions-architect-associate">AWS Certified Solutions Architect Associate SAA-C02 course</a>
   2. The FAQs for the most critical services, included in the recommended reading list below
   3. Tutorials Dojo's <a href="https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/">AWS Certified Solutions Architect Associate Practice Exams </a>
-  4. Andrew Brown's <a href="https://www.youtube.com/watch?v=Ia-UEYYR44s">AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) | Ad-Free Course
-</a> 
-  5. Udemy: Neal Davis <a href="https://www.udemy.com/course/aws-certified-solutions-architect-associate-hands-on">AWS Certified Solutions Architect Associate SAA-C02 [2022]</a>
-  6. Udemy: Stephane Maarek <a href="https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02">Ultimate AWS Certified Solutions Architect Associate 2022</a>
+  4. Andrew Brown's <a href="https://www.youtube.com/watch?v=Ia-UEYYR44s">AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!) | Ad-Free Course </a> 
+  5. Udemy: Neal Davis <a href="https://www.udemy.com/course/aws-certified-solutions-architect-associate-hands-on">AWS Certified Solutions Architect Associate SAA-C02 [2022] </a> 
+  6. Udemy: Stephane Maarek <a href="https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02">Ultimate AWS Certified Solutions Architect Associate 2022 </a> 
+   
   
   
 *Notes*:
